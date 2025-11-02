@@ -3,7 +3,7 @@ import java.io.*;
 
 public class LeerArchivo {
     public static void main(String[] args) throws Exception{
-        String nombreArchivo = "C:/prueba.txt";
+        String nombreArchivo = "prueba.txt";
         FileInputStream archivo;
         InputStreamReader conversor;
         BufferedReader filtro;
